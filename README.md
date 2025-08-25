@@ -9,7 +9,7 @@
 
 <div style="display: flex; flex-wrap: wrap;">
     <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarStryke21&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="FarStryke21" />
-    <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats.vercel.app/api?username=FarStryke21&count_private=true&show_icons=true" alt="FarStryke21" />
+<!--     <img style="height: 170px; width: auto;" align="right" src="https://github-readme-stats.vercel.app/api?username=FarStryke21&count_private=true&show_icons=true" alt="FarStryke21" /> -->
 </div>
 
 
