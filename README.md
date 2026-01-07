@@ -1,6 +1,6 @@
 ### Hi there! This is Aman.👋
 
-- 🔭 I am currently working as a **Researcher at Carnegie Mellon University**.
+- 🔭 I am currently a **First-Year PhD at Carnegie Mellon University**.
 - 🌱 I do research in robotics about robot learning, perception, planning and teleoperation for robots.
 - 📫 My personal homepage: [farstryke21.github.io](https://farstryke21.github.io/)
 - 💬 My contact information: achulawa@andrew.cmu.edu
